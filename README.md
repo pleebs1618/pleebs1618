@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **Rust**
 - 🔭 I’m currently interning at **SAS**
+- 💬 I’m currently working on SAS Viya Administrator, SAS 9.4 Programming Specialist Certifications
 
 <p align="left">
 </p>
