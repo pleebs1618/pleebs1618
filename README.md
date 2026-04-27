@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joon</h1>
-<h3 align="center">A senior at Korea University, studying CompSci and CyberSec</h3>
+<h3 align="center">A graduate from Korea University, studying CompSci and CyberSec</h3>
 
 - 🌱 I’m currently studying for **Comptia Security+**
 - 🔭 I’m currently working at **SAS Institute** as a Technical Support Associate Engineer
